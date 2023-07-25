@@ -1,5 +1,5 @@
-# Proyecto Final Giannasio
+# PreEntrega 3 Giannasio
 
-## Corresponde a la última entrega relacionada con el curso de Desarrollo Web.
+## Corresponde a Tercera entrega del curso de JavaScript.
 
 Autor **Marcos Giannasio**
